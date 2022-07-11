@@ -1,0 +1,24 @@
+body{
+    margin: 0%;
+}
+
+header{
+    background-color: black;
+    color: white;
+    padding-top: 0.1%;
+}
+
+.titulo{
+
+    text-align: center;
+    font-size: 120%;
+    padding-bottom: 1%;
+}
+
+#login{
+    position: absolute;
+    left: 95%;
+    bottom: 95%;
+    text-decoration: none;
+    color: white;
+}
